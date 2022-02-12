@@ -5,6 +5,6 @@
 # My stack
 
 
-|              Java               |            SeleniumWebDriver          |  Selenoide |                Jenkins                 |  IntelliJ IDEA | Allure Report    |             Allure Testops             |   
+|              Java               |            SeleniumWebDriver          |  Selenoide |                Jenkins                 |  IntelliJ IDEA | Allure Report    |             Allure Testops             | Scala |   
 |:-------------------------------:|:-------------------------------:|:----:|:-------------------------------------:|:------:|:--------:|:-------------------------------:|
-| ![Java](/images/Java.png) | ![SeleniumWD](/images/selenium.png) |![Selenoide](/images/Selenoid.png) | ![Jenlins](/images/Jenkins.png) | ![IntelliJ IDEA](/images/Intelij_IDEA.png) | ![Allure Report](/images/Allure_Report.png) | ![Jenkins](/images/AllureTestOps.png) | 
+| ![Java](/images/Java.png) | ![SeleniumWD](/images/selenium.png) |![Selenoide](/images/Selenoid.png) | ![Jenlins](/images/Jenkins.png) | ![IntelliJ IDEA](/images/Intelij_IDEA.png) | ![Allure Report](/images/Allure_Report.png) | ![Jenkins](/images/AllureTestOps.png) |![Scala](/images/scala.png) | 
