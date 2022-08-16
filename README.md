@@ -7,4 +7,4 @@
 
 |              Java               |            SeleniumWebDriver            |  Selenide |                Jenkins                 |  IntelliJ IDEA | Scala    |             Allure Testops             |   
 |:-------------------------------:|:-------------------------------:|:----:|:-------------------------------------:|:------:|:--------:|:-------------------------------:|
-| ![Java](/images/Java.png) | ![SeleniumWD](/images/selenium.png) |![Selenoide](/images/Selenoid.png) | ![Jenlins](/images/Jenkins.png) | ![IntelliJ IDEA](/images/Intelij_IDEA.png) | ![Scala](/images/scala.png) | ![Jenkins](/images/AllureTestOps.png) | 
+| ![Java](/images/Java.png) | ![SeleniumWD](/images/selenium.png) |![Selenide](/images/Selenoid.png) | ![Jenlins](/images/Jenkins.png) | ![IntelliJ IDEA](/images/Intelij_IDEA.png) | ![Scala](/images/scala.png) | ![Jenkins](/images/AllureTestOps.png) | 
